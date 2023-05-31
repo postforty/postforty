@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=postforty&show_icons=true&theme=gruvbox) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=postforty&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=postforty&layout=compact&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=postforty&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
